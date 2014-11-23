@@ -30,12 +30,8 @@ Following steps would get you started:
 ### Examples:
 
     1. $ watch ~/projects/my_project    # watch folder live_version
-
-    Please enter base location for Live Repositories (Default:/Users/user_id/LiveRepos):
-    Please enter base location for logs (Default: /Users/user_id/logs):
-    Please enter default email:
-
     2. $ watch ~/.bash_profile          # watch file .bash_profile
+    2. $ watch /etc/hosts               # watch file /etc/hosts to track configuration
 
 In Example 1. `watch ~/projects/my_project`, watch command will:
 
