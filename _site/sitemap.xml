@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/documentation/Theory/</loc>
+    
+    <lastmod>2014-11-17T16:30:00+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/documentation/Philosophy/</loc>
+    
+    <lastmod>2014-11-17T16:30:00+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/documentation/Scripts/</loc>
+    
+    <lastmod>2014-11-16T16:30:00+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/documentation/Recovery/</loc>
+    
+    <lastmod>2014-11-15T16:30:00+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/documentation/Timeline/</loc>
+    
+    <lastmod>2014-11-14T16:30:00+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/quick-start/</loc>
+    <lastmod>2014-11-23T12:08:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/about/</loc>
+    <lastmod>2014-11-23T12:08:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/</loc>
+    <lastmod>2014-11-23T12:08:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/media/</loc>
+    <lastmod>2014-11-23T12:08:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/terms/</loc>
+    <lastmod>2014-11-23T12:08:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/documentation/</loc>
+    <lastmod>2014-11-23T12:08:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://anupam-arohi.com/lv/download/index.html</loc>
+    <lastmod>2014-11-23T00:59:18Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
