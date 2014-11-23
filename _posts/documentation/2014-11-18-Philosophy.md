@@ -8,7 +8,7 @@ categories: documentation
 excerpt: "Why O' Why?"
 tags: []
 toc: false
-ads: true
+ads: false
 image:
   feature: 
   teaser: 400x250/lv-logo.png
