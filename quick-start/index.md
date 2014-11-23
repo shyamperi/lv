@@ -42,18 +42,14 @@ $ watch foldername or filename
 {% highlight text %}
 
 1. $ watch ~/projects/my_project    # watch folder live_version
-
-Please enter base location for Live Repositories (Default:/Users/user_id/LiveRepos):
-Please enter base location for logs (Default: /Users/user_id/logs):
-Please enter default email:
-
 2. $ watch ~/.bash_profile          # watch file .bash_profile
+3. @ watch /etc/hosts 					# watch file /etc/hosts to track configuration
 
 {% endhighlight %}
 
 In Example 1. `watch ~/projects/my_project`, watch command will:
 
-- Will ask for the default values (first time execution only).
+- Will ask for the default values (first time only).
 - Create a Live Repository in ~/LiveRepos.
 - On Mac, Create a new [LaunchAgent](http://goo.gl/FLeqgu) to watch the folder.
 - On Linux, Create a new [Watcher job](http://goo.gl/5edOBt) or [incrond](http://goo.gl/B2ZAfE) entry. 
