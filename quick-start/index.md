@@ -43,7 +43,7 @@ $ watch foldername or filename
 
 1. $ watch ~/projects/my_project    # watch folder live_version
 2. $ watch ~/.bash_profile          # watch file .bash_profile
-3. @ watch /etc/hosts 					# watch file /etc/hosts to track configuration
+3. @ watch /etc/hosts               # watch file /etc/hosts to track configuration
 
 {% endhighlight %}
 
