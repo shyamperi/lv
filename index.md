@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><a href="documentation/Theory/#toc0">Personal</a></h2>
-  <p class="post-excerpt">Live Version (LV) is made for your own personal use.</p>
+  <p class="post-excerpt">Live Version (LV) is made for your own personal use. You can track any file or folder on your computer. It'll maintain a Live Repository and track all the changes and systematically version them.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
